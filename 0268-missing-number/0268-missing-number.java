@@ -1,12 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Map<Integer, Boolean> numMap = new HashMap<>();
-        int n = nums.length;
-        for (int num : nums) {
-            numMap.put(num, true);
+        int[] freq = new int[nums.length + 1];
+        for (int i = 0; i < freq.length; i++) {
+            freq[i] = -1;
         }
-        for (int i = 0; i <= n; i++) {
-            if (!numMap.containsKey(i)) {
+        for (int i = 0; i < nums.length; i++) {
+            freq[nums[i]] = nums[i];
+        }
+        for (int i = 0; i < freq.length; i++) {
+            if (freq[i] == -1) {
                 return i;
             }
         }
