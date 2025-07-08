@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
