@@ -1,23 +1,26 @@
 class Solution {
-    public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
-        int n = graph.length-1;
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> list = new ArrayList<>();
-        list.add(0);
-        DFS(graph, ans, list, 0, n);
-        return ans;
-    }
-    public static void DFS(int graph[][], List<List<Integer>> ans, List<Integer> list,  int src, int dest){
-        if(src == dest){
-            ans.add(new ArrayList<>(list));
+    List<List<Integer>> ans = new ArrayList<>();
+    public void dfs(int[][]graph , boolean[]visited,int src,int dest,ArrayList<Integer>path){
+        path.add(src);
+        if(src==dest){
+            ans.add(new ArrayList<>(path)); // make a copy of current path
+            path.remove(path.size() - 1);   // backtrack
             return;
         }
-
-        for(int nbr : graph[src]){
-            list.add(nbr);
-            DFS(graph, ans, list, nbr, dest);
-            list.remove(list.size()-1);
+        visited[src]=true;
+        for(int e:graph[src]){
+            if(visited[e]==false){
+                dfs(graph,visited,e,dest,path);
+            }
         }
+        //backtracking
+        path.remove(path.size() - 1);
+        visited[src]=false;
     }
-
+    public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
+        boolean [] visited = new boolean[graph.length];
+        ArrayList<Integer>path = new ArrayList<Integer>();
+        dfs(graph,visited,0,graph.length-1,path);
+        return ans;
+    }
 }
