@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0279-perfect-squares) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
