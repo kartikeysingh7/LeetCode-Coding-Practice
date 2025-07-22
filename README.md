@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0907-koko-eating-bananas) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
