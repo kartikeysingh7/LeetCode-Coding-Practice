@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -160,5 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
