@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1073-number-of-enclaves) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/2662-check-knight-tour-configuration) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Binary Search
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
 |  |
 | ------- |
