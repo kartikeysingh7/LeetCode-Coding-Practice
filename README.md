@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
@@ -162,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
