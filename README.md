@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0415-add-strings) |
 ## Counting
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0415-add-strings) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/2662-check-knight-tour-configuration) |
 ## Number Theory
 |  |
