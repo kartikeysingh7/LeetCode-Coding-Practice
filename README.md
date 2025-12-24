@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0907-koko-eating-bananas](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0907-koko-eating-bananas) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1073-number-of-enclaves) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
