@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0907-koko-eating-bananas) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
@@ -225,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
