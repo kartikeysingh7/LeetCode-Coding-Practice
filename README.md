@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
@@ -134,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
 | ------- |
