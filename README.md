@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0171-excel-sheet-column-number) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
