@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Counting
 |  |
 | ------- |
