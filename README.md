@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0190-reverse-bits) |
@@ -401,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
