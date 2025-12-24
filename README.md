@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0283-move-zeroes) |
 | [0907-koko-eating-bananas](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0907-koko-eating-bananas) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1073-number-of-enclaves) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0283-move-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
