@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -332,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
