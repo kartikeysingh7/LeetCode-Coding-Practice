@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
