@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Union Find
