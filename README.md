@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0066-plus-one) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0401-binary-watch) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1073-number-of-enclaves) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/2662-check-knight-tour-configuration) |
