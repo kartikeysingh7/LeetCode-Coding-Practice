@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1073-number-of-enclaves) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/2662-check-knight-tour-configuration) |
+| [3074-apple-redistribution-into-boxes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
+| [3074-apple-redistribution-into-boxes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## String
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
+| [3074-apple-redistribution-into-boxes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3074-apple-redistribution-into-boxes) |
 ## Trie
 |  |
 | ------- |
