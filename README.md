@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0171-excel-sheet-column-number) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0118-pascals-triangle) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0225-implement-stack-using-queues) |
