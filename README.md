@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0279-perfect-squares) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
