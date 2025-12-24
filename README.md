@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0066-plus-one) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0118-pascals-triangle) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0225-implement-stack-using-queues) |
@@ -425,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
