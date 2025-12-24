@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0401-binary-watch) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 ## Matrix
