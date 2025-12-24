@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0813-all-paths-from-source-to-target) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Union Find
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0051-n-queens) |
+| [0257-binary-tree-paths](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 ## Matrix
