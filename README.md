@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0258-add-digits) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
