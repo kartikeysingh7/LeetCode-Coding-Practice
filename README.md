@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0401-binary-watch) |
 | [0813-all-paths-from-source-to-target](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0813-all-paths-from-source-to-target) |
