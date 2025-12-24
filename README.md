@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0907-koko-eating-bananas) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 ## String
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
