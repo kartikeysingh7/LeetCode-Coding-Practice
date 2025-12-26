@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0434-number-of-segments-in-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Counting
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0303-range-sum-query-immutable) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
