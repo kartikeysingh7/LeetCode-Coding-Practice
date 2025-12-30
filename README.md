@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0840-magic-squares-in-grid](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0907-koko-eating-bananas) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1073-number-of-enclaves) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0840-magic-squares-in-grid](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0840-magic-squares-in-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0441-arranging-coins) |
+| [0840-magic-squares-in-grid](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0037-sudoku-solver) |
+| [0840-magic-squares-in-grid](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/0840-magic-squares-in-grid) |
 | [1022-unique-paths-iii](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1022-unique-paths-iii) |
 | [1073-number-of-enclaves](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/1073-number-of-enclaves) |
 | [2662-check-knight-tour-configuration](https://github.com/kartikeysingh7/LeetCode-Coding-Practice/tree/master/2662-check-knight-tour-configuration) |
